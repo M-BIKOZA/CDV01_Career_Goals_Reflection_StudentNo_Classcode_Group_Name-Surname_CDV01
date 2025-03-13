@@ -16,53 +16,75 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:**Makanaka Bikoza
+- **Date:**13 March
+- **Current Role/Position:**Student
+- **Field of Interest:**Technology
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - I'm currently learning how to code and i'm expecting to make the most out of it in making the world a better place by coding.
+    - Looking forward to collaborations and time management.
 2. **Interests and Values**:
-    
+
     - Describe your key interests related to your career.
+I want to be innovative in tech world 
+
     - What values are important to you in a work environment?
+Team work, accountability and responsibility
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
     - List the industries or roles you have researched.
+Web developer
+Mobile app developer
+Technical support engineer
+UX/UI Designer
     - Note any particular areas that piqued your interest.
+Game developer
+Technical supporter
+Cybersecurity engineer
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
+
     - Identify any gaps or areas for further exploration.
+Security
+Ethical and sustainable software development
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
     - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+Mastering new languages (Afrikaans,French and IsiZulu)
+- Explain the rationale behind each goal.
+Just to gain confidence in interacting with people of different diversity
+
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
+Would be to be happy and content
     - Describe how these align with your interests and skills.
+It will fuel the passion and it will be motivating to me
+
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
     - Detail specific actions or steps needed to achieve each short-term goal.
+Just being in an environment with people who speak those languages will help me.
     - Include any resources or support required.
+A tutor maybe
 2. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
+Resiliance whereby after every frustration i must show up for the next task
     - Consider additional skills, experiences, or qualifications needed.
 
 ### Part 5: Reflection on Challenges and Opportunities
@@ -70,10 +92,15 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Anticipated Challenges**:
     
     - Identify potential obstacles or challenges in reaching your goals.
+Lack of financial support
+Family issues
     - Consider strategies to overcome these challenges.
+Getting a job so that i can support myself financially
+Moving out to avoid negativity from my family
 2. **Opportunities for Growth**:
     
     - Highlight any opportunities you can leverage for career growth.
+Connections
     - Include networking, mentorship, or educational opportunities.
 
 ### Submission
@@ -81,7 +108,8 @@ By completing this reflection, you will gain a clearer understanding of your car
 - To complete this submission you will need to use this template and complete Parts 1 to 5.
 - Note this reflection Template is a guide to help prompt your reflections in each section.
 - You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
+- Change the name of your forked CDV01_Career_Goals_Reflection_MAKBIK25115_fto2502_A2_M-Bikoza_CDVO1
+- repository to reflect your Student Number, ClassCode, Group Name and Name.
 - You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
 
 
